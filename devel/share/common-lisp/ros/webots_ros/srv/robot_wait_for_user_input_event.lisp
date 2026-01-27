@@ -1,0 +1,1 @@
+/home/crumb/MEHATRONIKA/project_ws/devel/.private/webots_ros/share/common-lisp/ros/webots_ros/srv/robot_wait_for_user_input_event.lisp

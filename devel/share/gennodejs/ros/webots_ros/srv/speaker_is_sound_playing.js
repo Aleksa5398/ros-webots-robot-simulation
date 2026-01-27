@@ -1,0 +1,1 @@
+/home/crumb/MEHATRONIKA/project_ws/devel/.private/webots_ros/share/gennodejs/ros/webots_ros/srv/speaker_is_sound_playing.js

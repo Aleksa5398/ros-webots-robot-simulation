@@ -1,0 +1,1 @@
+/home/crumb/MEHATRONIKA/project_ws/devel/.private/catkin_tools_prebuild/setup.fish

@@ -1,0 +1,6 @@
+devel_space: /home/crumb/MEHATRONIKA/project_ws/devel
+install: false
+install_space: /home/crumb/MEHATRONIKA/project_ws/install
+profile: default
+source_space: /home/crumb/MEHATRONIKA/project_ws/src
+workspace: /home/crumb/MEHATRONIKA/project_ws

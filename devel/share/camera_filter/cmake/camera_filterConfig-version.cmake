@@ -1,0 +1,1 @@
+/home/crumb/MEHATRONIKA/project_ws/devel/.private/camera_filter/share/camera_filter/cmake/camera_filterConfig-version.cmake

@@ -1,0 +1,1 @@
+/home/crumb/MEHATRONIKA/project_ws/devel/.private/webots_ros/lib/python3/dist-packages/webots_ros/srv/_display_image_paste.py

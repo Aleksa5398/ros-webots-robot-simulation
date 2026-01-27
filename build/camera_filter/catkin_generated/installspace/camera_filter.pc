@@ -1,0 +1,8 @@
+prefix=/home/crumb/MEHATRONIKA/project_ws/install
+
+Name: camera_filter
+Description: Description of camera_filter
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

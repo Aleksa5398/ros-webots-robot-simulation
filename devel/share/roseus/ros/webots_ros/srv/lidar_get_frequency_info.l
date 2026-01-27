@@ -1,0 +1,1 @@
+/home/crumb/MEHATRONIKA/project_ws/devel/.private/webots_ros/share/roseus/ros/webots_ros/srv/lidar_get_frequency_info.l

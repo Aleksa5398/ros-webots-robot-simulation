@@ -1,0 +1,906 @@
+[35m[1mScanning dependencies of target _webots_ros_generate_messages_check_deps_supervisor_set_label[0m
+[35m[1mScanning dependencies of target _webots_ros_generate_messages_check_deps_field_get_count[0m
+[35m[1mScanning dependencies of target _webots_ros_generate_messages_check_deps_supervisor_get_from_id[0m
+[35m[1mScanning dependencies of target _webots_ros_generate_messages_check_deps_supervisor_get_from_string[0m
+[  0%] Built target _webots_ros_generate_messages_check_deps_supervisor_set_label
+[  0%] Built target _webots_ros_generate_messages_check_deps_field_get_count
+[  0%] Built target _webots_ros_generate_messages_check_deps_supervisor_get_from_string
+[  0%] Built target _webots_ros_generate_messages_check_deps_supervisor_get_from_id
+[35m[1mScanning dependencies of target _webots_ros_generate_messages_check_deps_supervisor_get_from_def[0m
+[35m[1mScanning dependencies of target _webots_ros_generate_messages_check_deps_skin_get_bone_name[0m
+[35m[1mScanning dependencies of target _webots_ros_generate_messages_check_deps_speaker_is_sound_playing[0m
+[35m[1mScanning dependencies of target _webots_ros_generate_messages_check_deps_set_int[0m
+[  0%] Built target _webots_ros_generate_messages_check_deps_supervisor_get_from_def
+[  0%] Built target _webots_ros_generate_messages_check_deps_speaker_is_sound_playing
+[  0%] Built target _webots_ros_generate_messages_check_deps_skin_get_bone_name
+[35m[1mScanning dependencies of target _webots_ros_generate_messages_check_deps_save_image[0m
+[35m[1mScanning dependencies of target _webots_ros_generate_messages_check_deps_robot_wait_for_user_input_event[0m
+[  0%] Built target _webots_ros_generate_messages_check_deps_set_int
+[35m[1mScanning dependencies of target _webots_ros_generate_messages_check_deps_robot_set_mode[0m
+[35m[1mScanning dependencies of target _webots_ros_generate_messages_check_deps_supervisor_movie_start_recording[0m
+[  0%] Built target _webots_ros_generate_messages_check_deps_save_image
+[  0%] Built target _webots_ros_generate_messages_check_deps_robot_wait_for_user_input_event
+[  0%] Built target _webots_ros_generate_messages_check_deps_robot_set_mode
+[35m[1mScanning dependencies of target _webots_ros_generate_messages_check_deps_node_set_visibility[0m
+[35m[1mScanning dependencies of target _webots_ros_generate_messages_check_deps_robot_get_device_list[0m
+[  0%] Built target _webots_ros_generate_messages_check_deps_supervisor_movie_start_recording
+[35m[1mScanning dependencies of target _webots_ros_generate_messages_check_deps_node_set_joint_position[0m
+[35m[1mScanning dependencies of target _webots_ros_generate_messages_check_deps_node_move_viewpoint[0m
+[  0%] Built target _webots_ros_generate_messages_check_deps_node_set_visibility
+[  0%] Built target _webots_ros_generate_messages_check_deps_robot_get_device_list
+[35m[1mScanning dependencies of target _webots_ros_generate_messages_check_deps_node_remove[0m
+[  0%] Built target _webots_ros_generate_messages_check_deps_node_set_joint_position
+[35m[1mScanning dependencies of target _webots_ros_generate_messages_check_deps_node_get_type[0m
+[  0%] Built target _webots_ros_generate_messages_check_deps_node_move_viewpoint
+[35m[1mScanning dependencies of target _webots_ros_generate_messages_check_deps_node_get_status[0m
+[35m[1mScanning dependencies of target _webots_ros_generate_messages_check_deps_node_get_name[0m
+[  0%] Built target _webots_ros_generate_messages_check_deps_node_remove
+[35m[1mScanning dependencies of target _webots_ros_generate_messages_check_deps_node_get_number_of_fields[0m
+[  0%] Built target _webots_ros_generate_messages_check_deps_node_get_type
+[  0%] Built target _webots_ros_generate_messages_check_deps_node_get_name
+[35m[1mScanning dependencies of target _webots_ros_generate_messages_check_deps_node_get_field_by_index[0m
+[  0%] Built target _webots_ros_generate_messages_check_deps_node_get_status
+[35m[1mScanning dependencies of target _webots_ros_generate_messages_check_deps_node_enable_pose_tracking[0m
+[35m[1mScanning dependencies of target _webots_ros_generate_messages_check_deps_node_enable_contact_points_tracking[0m
+[  0%] Built target _webots_ros_generate_messages_check_deps_node_get_number_of_fields
+[35m[1mScanning dependencies of target _webots_ros_generate_messages_check_deps_node_disable_pose_tracking[0m
+[  0%] Built target _webots_ros_generate_messages_check_deps_node_get_field_by_index
+[  0%] Built target _webots_ros_generate_messages_check_deps_node_enable_pose_tracking
+[35m[1mScanning dependencies of target _webots_ros_generate_messages_check_deps_mouse_get_state[0m
+[  0%] Built target _webots_ros_generate_messages_check_deps_node_enable_contact_points_tracking
+[35m[1mScanning dependencies of target _webots_ros_generate_messages_check_deps_motor_set_control_pid[0m
+[35m[1mScanning dependencies of target _webots_ros_generate_messages_check_deps_lidar_get_layer_point_cloud[0m
+[  0%] Built target _webots_ros_generate_messages_check_deps_node_disable_pose_tracking
+[35m[1mScanning dependencies of target _webots_ros_generate_messages_check_deps_get_uint64[0m
+[  0%] Built target _webots_ros_generate_messages_check_deps_mouse_get_state
+[  0%] Built target _webots_ros_generate_messages_check_deps_motor_set_control_pid
+[35m[1mScanning dependencies of target _webots_ros_generate_messages_check_deps_get_int[0m
+[35m[1mScanning dependencies of target _webots_ros_generate_messages_check_deps_node_get_field[0m
+[  0%] Built target _webots_ros_generate_messages_check_deps_lidar_get_layer_point_cloud
+[35m[1mScanning dependencies of target _webots_ros_generate_messages_check_deps_get_float[0m
+[  0%] Built target _webots_ros_generate_messages_check_deps_get_uint64
+[  0%] Built target _webots_ros_generate_messages_check_deps_get_int
+[35m[1mScanning dependencies of target _webots_ros_generate_messages_check_deps_field_set_vec3f[0m
+[35m[1mScanning dependencies of target _webots_ros_generate_messages_check_deps_field_set_vec2f[0m
+[  0%] Built target _webots_ros_generate_messages_check_deps_node_get_field
+[35m[1mScanning dependencies of target _webots_ros_generate_messages_check_deps_field_set_string[0m
+[  0%] Built target _webots_ros_generate_messages_check_deps_get_float
+[35m[1mScanning dependencies of target _webots_ros_generate_messages_check_deps_field_set_rotation[0m
+[  0%] Built target _webots_ros_generate_messages_check_deps_field_set_vec3f
+[  0%] Built target _webots_ros_generate_messages_check_deps_field_set_vec2f
+[35m[1mScanning dependencies of target _webots_ros_generate_messages_check_deps_field_set_int32[0m
+[35m[1mScanning dependencies of target _webots_ros_generate_messages_check_deps_field_set_float[0m
+[  0%] Built target _webots_ros_generate_messages_check_deps_field_set_string
+[35m[1mScanning dependencies of target _webots_ros_generate_messages_check_deps_field_set_color[0m
+[  0%] Built target _webots_ros_generate_messages_check_deps_field_set_rotation
+[35m[1mScanning dependencies of target _webots_ros_generate_messages_check_deps_field_remove[0m
+[  0%] Built target _webots_ros_generate_messages_check_deps_field_set_int32
+[35m[1mScanning dependencies of target _webots_ros_generate_messages_check_deps_field_remove_node[0m
+[  0%] Built target _webots_ros_generate_messages_check_deps_field_set_float
+[35m[1mScanning dependencies of target _webots_ros_generate_messages_check_deps_gps_decimal_degrees_to_degrees_minutes_seconds[0m
+[  0%] Built target _webots_ros_generate_messages_check_deps_field_set_color
+[35m[1mScanning dependencies of target _webots_ros_generate_messages_check_deps_field_import_node_from_string[0m
+[  0%] Built target _webots_ros_generate_messages_check_deps_field_remove
+[35m[1mScanning dependencies of target _webots_ros_generate_messages_check_deps_field_get_vec2f[0m
+[  0%] Built target _webots_ros_generate_messages_check_deps_field_remove_node
+[  0%] Built target _webots_ros_generate_messages_check_deps_gps_decimal_degrees_to_degrees_minutes_seconds
+[35m[1mScanning dependencies of target _webots_ros_generate_messages_check_deps_get_bool[0m
+[35m[1mScanning dependencies of target _webots_ros_generate_messages_check_deps_field_get_type[0m
+[  0%] Built target _webots_ros_generate_messages_check_deps_field_import_node_from_string
+[  0%] Built target _webots_ros_generate_messages_check_deps_field_get_vec2f
+[35m[1mScanning dependencies of target _webots_ros_generate_messages_check_deps_field_get_string[0m
+[35m[1mScanning dependencies of target _webots_ros_generate_messages_check_deps_field_get_rotation[0m
+[  0%] Built target _webots_ros_generate_messages_check_deps_get_bool
+[  0%] Built target _webots_ros_generate_messages_check_deps_field_get_type
+[35m[1mScanning dependencies of target _webots_ros_generate_messages_check_deps_receiver_get_emitter_direction[0m
+[35m[1mScanning dependencies of target _webots_ros_generate_messages_check_deps_node_reset_functions[0m
+[  0%] Built target _webots_ros_generate_messages_check_deps_field_get_string
+[  0%] Built target _webots_ros_generate_messages_check_deps_field_get_rotation
+[35m[1mScanning dependencies of target _webots_ros_generate_messages_check_deps_field_set_bool[0m
+[35m[1mScanning dependencies of target _webots_ros_generate_messages_check_deps_get_float_array[0m
+[  0%] Built target _webots_ros_generate_messages_check_deps_node_reset_functions
+[  0%] Built target _webots_ros_generate_messages_check_deps_receiver_get_emitter_direction
+[35m[1mScanning dependencies of target _webots_ros_generate_messages_check_deps_display_draw_polygon[0m
+[35m[1mScanning dependencies of target _webots_ros_generate_messages_check_deps_field_get_float[0m
+[  0%] Built target _webots_ros_generate_messages_check_deps_field_set_bool
+[  0%] Built target _webots_ros_generate_messages_check_deps_get_float_array
+[35m[1mScanning dependencies of target _webots_ros_generate_messages_check_deps_node_get_string[0m
+[35m[1mScanning dependencies of target _webots_ros_generate_messages_check_deps_field_get_vec3f[0m
+[  0%] Built target _webots_ros_generate_messages_check_deps_field_get_float
+[  0%] Built target _webots_ros_generate_messages_check_deps_display_draw_polygon
+[35m[1mScanning dependencies of target _webots_ros_generate_messages_check_deps_lidar_get_info[0m
+[35m[1mScanning dependencies of target _webots_ros_generate_messages_check_deps_node_add_force_or_torque[0m
+[  0%] Built target _webots_ros_generate_messages_check_deps_field_get_vec3f
+[  0%] Built target _webots_ros_generate_messages_check_deps_node_get_string
+[35m[1mScanning dependencies of target _webots_ros_generate_messages_check_deps_Int8Stamped[0m
+[35m[1mScanning dependencies of target _webots_ros_generate_messages_check_deps_node_get_center_of_mass[0m
+[  0%] Built target _webots_ros_generate_messages_check_deps_lidar_get_info
+[  0%] Built target _webots_ros_generate_messages_check_deps_node_add_force_or_torque
+[35m[1mScanning dependencies of target _webots_ros_generate_messages_check_deps_get_string[0m
+[35m[1mScanning dependencies of target _webots_ros_generate_messages_check_deps_camera_get_info[0m
+[  0%] Built target _webots_ros_generate_messages_check_deps_Int8Stamped
+[  0%] Built target _webots_ros_generate_messages_check_deps_node_get_center_of_mass
+[35m[1mScanning dependencies of target _webots_ros_generate_messages_check_deps_node_add_force_with_offset[0m
+[35m[1mScanning dependencies of target _webots_ros_generate_messages_check_deps_field_get_name[0m
+[  0%] Built target _webots_ros_generate_messages_check_deps_camera_get_info
+[  0%] Built target _webots_ros_generate_messages_check_deps_get_string
+[35m[1mScanning dependencies of target _webots_ros_generate_messages_check_deps_node_get_id[0m
+[35m[1mScanning dependencies of target _webots_ros_generate_messages_check_deps_display_set_font[0m
+[  0%] Built target _webots_ros_generate_messages_check_deps_node_add_force_with_offset
+[  0%] Built target _webots_ros_generate_messages_check_deps_field_get_name
+[35m[1mScanning dependencies of target _webots_ros_generate_messages_check_deps_pen_set_ink_color[0m
+[35m[1mScanning dependencies of target _webots_ros_generate_messages_check_deps_node_get_parent_node[0m
+[  0%] Built target _webots_ros_generate_messages_check_deps_node_get_id
+[35m[1mScanning dependencies of target _webots_ros_generate_messages_check_deps_node_get_orientation[0m
+[  0%] Built target _webots_ros_generate_messages_check_deps_display_set_font
+[35m[1mScanning dependencies of target _webots_ros_generate_messages_check_deps_skin_set_bone_position[0m
+[  0%] Built target _webots_ros_generate_messages_check_deps_pen_set_ink_color
+[  0%] Built target _webots_ros_generate_messages_check_deps_node_get_parent_node
+[35m[1mScanning dependencies of target _webots_ros_generate_messages_check_deps_node_set_velocity[0m
+[35m[1mScanning dependencies of target _webots_ros_generate_messages_check_deps_StringStamped[0m
+[  0%] Built target _webots_ros_generate_messages_check_deps_node_get_orientation
+[35m[1mScanning dependencies of target _webots_ros_generate_messages_check_deps_set_bool[0m
+[  0%] Built target _webots_ros_generate_messages_check_deps_skin_set_bone_position
+[35m[1mScanning dependencies of target _webots_ros_generate_messages_check_deps_Float64Stamped[0m
+[  0%] Built target _webots_ros_generate_messages_check_deps_node_set_velocity
+[  0%] Built target _webots_ros_generate_messages_check_deps_StringStamped
+[35m[1mScanning dependencies of target _webots_ros_generate_messages_check_deps_node_get_pose[0m
+[35m[1mScanning dependencies of target _webots_ros_generate_messages_check_deps_node_disable_contact_points_tracking[0m
+[  0%] Built target _webots_ros_generate_messages_check_deps_set_bool
+[35m[1mScanning dependencies of target _webots_ros_generate_messages_check_deps_field_get_node[0m
+[  0%] Built target _webots_ros_generate_messages_check_deps_Float64Stamped
+[35m[1mScanning dependencies of target _webots_ros_generate_messages_check_deps_skin_set_bone_orientation[0m
+[  0%] Built target _webots_ros_generate_messages_check_deps_node_get_pose
+[  0%] Built target _webots_ros_generate_messages_check_deps_node_disable_contact_points_tracking
+[35m[1mScanning dependencies of target _webots_ros_generate_messages_check_deps_Int32Stamped[0m
+[  0%] Built target _webots_ros_generate_messages_check_deps_field_get_node
+[35m[1mScanning dependencies of target _webots_ros_generate_messages_check_deps_field_get_int32[0m
+[  0%] Built target _webots_ros_generate_messages_check_deps_skin_set_bone_orientation
+[35m[1mScanning dependencies of target _webots_ros_generate_messages_check_deps_lidar_get_layer_range_image[0m
+[35m[1mScanning dependencies of target _webots_ros_generate_messages_check_deps_node_get_velocity[0m
+[  0%] Built target _webots_ros_generate_messages_check_deps_Int32Stamped
+[35m[1mScanning dependencies of target _webots_ros_generate_messages_check_deps_supervisor_virtual_reality_headset_get_position[0m
+[  0%] Built target _webots_ros_generate_messages_check_deps_field_get_int32
+[  0%] Built target _webots_ros_generate_messages_check_deps_lidar_get_layer_range_image
+[  0%] Built target _webots_ros_generate_messages_check_deps_node_get_velocity
+[35m[1mScanning dependencies of target _webots_ros_generate_messages_check_deps_node_get_position[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[  0%] Built target std_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target _webots_ros_generate_messages_check_deps_display_draw_line[0m
+[  0%] Built target sensor_msgs_generate_messages_cpp
+[  0%] Built target _webots_ros_generate_messages_check_deps_supervisor_virtual_reality_headset_get_position
+[35m[1mScanning dependencies of target _webots_ros_generate_messages_check_deps_node_get_contact_points[0m
+[35m[1mScanning dependencies of target _webots_ros_generate_messages_check_deps_set_string[0m
+[  0%] Built target _webots_ros_generate_messages_check_deps_node_get_position
+[35m[1mScanning dependencies of target _webots_ros_generate_messages_check_deps_RadarTarget[0m
+[  0%] Built target _webots_ros_generate_messages_check_deps_display_draw_line
+[  0%] Built target _webots_ros_generate_messages_check_deps_node_get_contact_points
+[35m[1mScanning dependencies of target _webots_ros_generate_messages_check_deps_node_get_static_balance[0m
+[  0%] Built target _webots_ros_generate_messages_check_deps_set_string
+[35m[1mScanning dependencies of target _webots_ros_generate_messages_check_deps_get_urdf[0m
+[35m[1mScanning dependencies of target _webots_ros_generate_messages_check_deps_field_enable_sf_tracking[0m
+[  0%] Built target _webots_ros_generate_messages_check_deps_RadarTarget
+[35m[1mScanning dependencies of target _webots_ros_generate_messages_check_deps_field_get_color[0m
+[  0%] Built target _webots_ros_generate_messages_check_deps_node_get_static_balance
+[35m[1mScanning dependencies of target _webots_ros_generate_messages_check_deps_supervisor_virtual_reality_headset_get_orientation[0m
+[  0%] Built target _webots_ros_generate_messages_check_deps_get_urdf
+[  0%] Built target _webots_ros_generate_messages_check_deps_field_enable_sf_tracking
+[35m[1mScanning dependencies of target _webots_ros_generate_messages_check_deps_range_finder_get_info[0m
+[35m[1mScanning dependencies of target _webots_ros_generate_messages_check_deps_set_float[0m
+[  0%] Built target _webots_ros_generate_messages_check_deps_field_get_color
+[35m[1mScanning dependencies of target _webots_ros_generate_messages_check_deps_display_draw_rectangle[0m
+[  0%] Built target _webots_ros_generate_messages_check_deps_supervisor_virtual_reality_headset_get_orientation
+[35m[1mScanning dependencies of target _webots_ros_generate_messages_check_deps_display_image_load[0m
+[  0%] Built target _webots_ros_generate_messages_check_deps_range_finder_get_info
+[  0%] Built target _webots_ros_generate_messages_check_deps_set_float
+[35m[1mScanning dependencies of target _webots_ros_generate_messages_check_deps_skin_get_bone_orientation[0m
+[35m[1mScanning dependencies of target _webots_ros_generate_messages_check_deps_set_float_array[0m
+[  0%] Built target _webots_ros_generate_messages_check_deps_display_draw_rectangle
+[35m[1mScanning dependencies of target _webots_ros_generate_messages_check_deps_skin_get_bone_position[0m
+[  0%] Built target _webots_ros_generate_messages_check_deps_display_image_load
+[35m[1mScanning dependencies of target _webots_ros_generate_messages_check_deps_BoolStamped[0m
+[  0%] Built target _webots_ros_generate_messages_check_deps_skin_get_bone_orientation
+[  0%] Built target _webots_ros_generate_messages_check_deps_set_float_array
+[35m[1mScanning dependencies of target _webots_ros_generate_messages_check_deps_speaker_play_sound[0m
+[  0%] Built target _webots_ros_generate_messages_check_deps_skin_get_bone_position
+[35m[1mScanning dependencies of target _webots_ros_generate_messages_check_deps_RecognitionObject[0m
+[35m[1mScanning dependencies of target _webots_ros_generate_messages_check_deps_ContactPoint[0m
+[  0%] Built target _webots_ros_generate_messages_check_deps_BoolStamped
+[35m[1mScanning dependencies of target _webots_ros_generate_messages_check_deps_display_draw_oval[0m
+[  0%] Built target _webots_ros_generate_messages_check_deps_speaker_play_sound
+[  0%] Built target _webots_ros_generate_messages_check_deps_RecognitionObject
+[35m[1mScanning dependencies of target _webots_ros_generate_messages_check_deps_camera_get_focus_info[0m
+[  0%] Built target _webots_ros_generate_messages_check_deps_ContactPoint
+[35m[1mScanning dependencies of target _webots_ros_generate_messages_check_deps_camera_get_zoom_info[0m
+[35m[1mScanning dependencies of target _webots_ros_generate_messages_check_deps_display_draw_pixel[0m
+[  0%] Built target _webots_ros_generate_messages_check_deps_display_draw_oval
+[35m[1mScanning dependencies of target _webots_ros_generate_messages_check_deps_display_draw_text[0m
+[  0%] Built target _webots_ros_generate_messages_check_deps_camera_get_focus_info
+[  0%] Built target _webots_ros_generate_messages_check_deps_display_draw_pixel
+[35m[1mScanning dependencies of target _webots_ros_generate_messages_check_deps_display_get_info[0m
+[  0%] Built target _webots_ros_generate_messages_check_deps_camera_get_zoom_info
+[35m[1mScanning dependencies of target _webots_ros_generate_messages_check_deps_lidar_get_frequency_info[0m
+[35m[1mScanning dependencies of target _webots_ros_generate_messages_check_deps_display_image_copy[0m
+[  0%] Built target _webots_ros_generate_messages_check_deps_display_draw_text
+[35m[1mScanning dependencies of target _webots_ros_generate_messages_check_deps_display_image_delete[0m
+[  0%] Built target _webots_ros_generate_messages_check_deps_display_get_info
+[  0%] Built target _webots_ros_generate_messages_check_deps_lidar_get_frequency_info
+[  0%] Built target _webots_ros_generate_messages_check_deps_display_image_copy
+[35m[1mScanning dependencies of target _webots_ros_generate_messages_check_deps_node_set_string[0m
+[35m[1mScanning dependencies of target _webots_ros_generate_messages_check_deps_RecognitionObjects[0m
+[35m[1mScanning dependencies of target _webots_ros_generate_messages_check_deps_display_image_new[0m
+[  0%] Built target _webots_ros_generate_messages_check_deps_display_image_delete
+[35m[1mScanning dependencies of target _webots_ros_generate_messages_check_deps_display_image_paste[0m
+[  0%] Built target _webots_ros_generate_messages_check_deps_node_set_string
+[  0%] Built target _webots_ros_generate_messages_check_deps_RecognitionObjects
+[  0%] Built target _webots_ros_generate_messages_check_deps_display_image_new
+[35m[1mScanning dependencies of target _webots_ros_generate_messages_check_deps_display_image_save[0m
+[35m[1mScanning dependencies of target _webots_ros_generate_messages_check_deps_field_disable_sf_tracking[0m
+[35m[1mScanning dependencies of target _webots_ros_generate_messages_check_deps_field_get_bool[0m
+[  0%] Built target _webots_ros_generate_messages_check_deps_display_image_paste
+[35m[1mScanning dependencies of target _webots_ros_generate_messages_check_deps_speaker_speak[0m
+[  0%] Built target _webots_ros_generate_messages_check_deps_field_disable_sf_tracking
+[  0%] Built target _webots_ros_generate_messages_check_deps_display_image_save
+[  0%] Built target _webots_ros_generate_messages_check_deps_field_get_bool
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_nodejs[0m
+[  0%] Built target sensor_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_py
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[  0%] Built target sensor_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_lisp[0m
+[  0%] Built target _webots_ros_generate_messages_check_deps_speaker_speak
+[  0%] Built target std_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[  0%] Built target sensor_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[  0%] Built target std_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target webots_ros_generate_messages_cpp[0m
+[  0%] Built target sensor_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target webots_ros_generate_messages_py[0m
+[  0%] [34m[1mGenerating C++ code from webots_ros/BoolStamped.msg[0m
+[  0%] [34m[1mGenerating C++ code from webots_ros/Float64Stamped.msg[0m
+[35m[1mScanning dependencies of target webots_ros_generate_messages_nodejs[0m
+[  0%] [34m[1mGenerating Python from MSG webots_ros/BoolStamped[0m
+[  0%] [34m[1mGenerating Javascript code from webots_ros/BoolStamped.msg[0m
+[  0%] [34m[1mGenerating Javascript code from webots_ros/Float64Stamped.msg[0m
+[  0%] [34m[1mGenerating Javascript code from webots_ros/Int32Stamped.msg[0m
+[  0%] [34m[1mGenerating Python from MSG webots_ros/Float64Stamped[0m
+[  0%] [34m[1mGenerating C++ code from webots_ros/Int32Stamped.msg[0m
+[  0%] [34m[1mGenerating Javascript code from webots_ros/Int8Stamped.msg[0m
+[35m[1mScanning dependencies of target webots_ros_generate_messages_lisp[0m
+[  1%] [34m[1mGenerating Lisp code from webots_ros/BoolStamped.msg[0m
+[  1%] [34m[1mGenerating Javascript code from webots_ros/RadarTarget.msg[0m
+[  1%] [34m[1mGenerating Lisp code from webots_ros/Float64Stamped.msg[0m
+[  2%] [34m[1mGenerating Javascript code from webots_ros/RecognitionObject.msg[0m
+[  2%] [34m[1mGenerating C++ code from webots_ros/Int8Stamped.msg[0m
+[  2%] [34m[1mGenerating Lisp code from webots_ros/Int32Stamped.msg[0m
+[  2%] [34m[1mGenerating Python from MSG webots_ros/Int32Stamped[0m
+[  2%] [34m[1mGenerating Javascript code from webots_ros/RecognitionObjects.msg[0m
+[  2%] [34m[1mGenerating Lisp code from webots_ros/Int8Stamped.msg[0m
+[  2%] [34m[1mGenerating Javascript code from webots_ros/StringStamped.msg[0m
+[  2%] [34m[1mGenerating Lisp code from webots_ros/RadarTarget.msg[0m
+[  2%] [34m[1mGenerating C++ code from webots_ros/RadarTarget.msg[0m
+[  2%] [34m[1mGenerating Javascript code from webots_ros/ContactPoint.msg[0m
+[  2%] [34m[1mGenerating Lisp code from webots_ros/RecognitionObject.msg[0m
+[  2%] [34m[1mGenerating Javascript code from webots_ros/camera_get_focus_info.srv[0m
+[  2%] [34m[1mGenerating Lisp code from webots_ros/RecognitionObjects.msg[0m
+[  3%] [34m[1mGenerating Python from MSG webots_ros/Int8Stamped[0m
+[  3%] [34m[1mGenerating Javascript code from webots_ros/camera_get_info.srv[0m
+[  4%] [34m[1mGenerating C++ code from webots_ros/RecognitionObject.msg[0m
+[  5%] [34m[1mGenerating Lisp code from webots_ros/StringStamped.msg[0m
+[  5%] [34m[1mGenerating Lisp code from webots_ros/ContactPoint.msg[0m
+[  6%] [34m[1mGenerating Javascript code from webots_ros/camera_get_zoom_info.srv[0m
+[  6%] [34m[1mGenerating Lisp code from webots_ros/camera_get_focus_info.srv[0m
+[  6%] [34m[1mGenerating Javascript code from webots_ros/display_draw_line.srv[0m
+[  6%] [34m[1mGenerating C++ code from webots_ros/RecognitionObjects.msg[0m
+[  6%] [34m[1mGenerating Python from MSG webots_ros/RadarTarget[0m
+[  6%] [34m[1mGenerating Lisp code from webots_ros/camera_get_info.srv[0m
+[  6%] [34m[1mGenerating Javascript code from webots_ros/display_draw_oval.srv[0m
+[  6%] [34m[1mGenerating Lisp code from webots_ros/camera_get_zoom_info.srv[0m
+[  6%] [34m[1mGenerating Javascript code from webots_ros/display_draw_pixel.srv[0m
+[  6%] [34m[1mGenerating C++ code from webots_ros/StringStamped.msg[0m
+[  6%] [34m[1mGenerating Lisp code from webots_ros/display_draw_line.srv[0m
+[  6%] [34m[1mGenerating Javascript code from webots_ros/display_draw_polygon.srv[0m
+[  7%] [34m[1mGenerating Lisp code from webots_ros/display_draw_oval.srv[0m
+[  7%] [34m[1mGenerating Javascript code from webots_ros/display_draw_rectangle.srv[0m
+[  7%] [34m[1mGenerating Python from MSG webots_ros/RecognitionObject[0m
+[  7%] [34m[1mGenerating Lisp code from webots_ros/display_draw_pixel.srv[0m
+[  7%] [34m[1mGenerating C++ code from webots_ros/ContactPoint.msg[0m
+[  8%] [34m[1mGenerating Javascript code from webots_ros/display_draw_text.srv[0m
+[  8%] [34m[1mGenerating Lisp code from webots_ros/display_draw_polygon.srv[0m
+[  8%] [34m[1mGenerating Javascript code from webots_ros/display_get_info.srv[0m
+[  8%] [34m[1mGenerating Lisp code from webots_ros/display_draw_rectangle.srv[0m
+[  8%] [34m[1mGenerating Javascript code from webots_ros/display_image_copy.srv[0m
+[  8%] [34m[1mGenerating C++ code from webots_ros/camera_get_focus_info.srv[0m
+[  8%] [34m[1mGenerating Python from MSG webots_ros/RecognitionObjects[0m
+[  8%] [34m[1mGenerating Lisp code from webots_ros/display_draw_text.srv[0m
+[  8%] [34m[1mGenerating Javascript code from webots_ros/display_image_delete.srv[0m
+[  8%] [34m[1mGenerating Lisp code from webots_ros/display_get_info.srv[0m
+[  8%] [34m[1mGenerating Javascript code from webots_ros/display_image_load.srv[0m
+[  9%] [34m[1mGenerating Lisp code from webots_ros/display_image_copy.srv[0m
+[  9%] [34m[1mGenerating Javascript code from webots_ros/display_image_new.srv[0m
+[  9%] [34m[1mGenerating Python from MSG webots_ros/StringStamped[0m
+[  9%] [34m[1mGenerating Lisp code from webots_ros/display_image_delete.srv[0m
+[  9%] [34m[1mGenerating C++ code from webots_ros/camera_get_info.srv[0m
+[  9%] [34m[1mGenerating Javascript code from webots_ros/display_image_paste.srv[0m
+[  9%] [34m[1mGenerating Lisp code from webots_ros/display_image_load.srv[0m
+[ 10%] [34m[1mGenerating Javascript code from webots_ros/display_image_save.srv[0m
+[ 10%] [34m[1mGenerating Lisp code from webots_ros/display_image_new.srv[0m
+[ 10%] [34m[1mGenerating Javascript code from webots_ros/display_set_font.srv[0m
+[ 10%] [34m[1mGenerating Lisp code from webots_ros/display_image_paste.srv[0m
+[ 10%] [34m[1mGenerating Python from MSG webots_ros/ContactPoint[0m
+[ 10%] [34m[1mGenerating Javascript code from webots_ros/field_disable_sf_tracking.srv[0m
+[ 10%] [34m[1mGenerating Lisp code from webots_ros/display_image_save.srv[0m
+[ 11%] [34m[1mGenerating C++ code from webots_ros/camera_get_zoom_info.srv[0m
+[ 11%] [34m[1mGenerating Javascript code from webots_ros/field_enable_sf_tracking.srv[0m
+[ 12%] [34m[1mGenerating Lisp code from webots_ros/display_set_font.srv[0m
+[ 12%] [34m[1mGenerating Javascript code from webots_ros/field_get_bool.srv[0m
+[ 12%] [34m[1mGenerating Lisp code from webots_ros/field_disable_sf_tracking.srv[0m
+[ 13%] [34m[1mGenerating Python code from SRV webots_ros/camera_get_focus_info[0m
+[ 13%] [34m[1mGenerating Javascript code from webots_ros/field_get_color.srv[0m
+[ 13%] [34m[1mGenerating Lisp code from webots_ros/field_enable_sf_tracking.srv[0m
+[ 14%] [34m[1mGenerating Javascript code from webots_ros/field_get_count.srv[0m
+[ 14%] [34m[1mGenerating C++ code from webots_ros/display_draw_line.srv[0m
+[ 14%] [34m[1mGenerating Lisp code from webots_ros/field_get_bool.srv[0m
+[ 14%] [34m[1mGenerating Javascript code from webots_ros/field_get_float.srv[0m
+[ 14%] [34m[1mGenerating Lisp code from webots_ros/field_get_color.srv[0m
+[ 14%] [34m[1mGenerating Python code from SRV webots_ros/camera_get_info[0m
+[ 14%] [34m[1mGenerating Javascript code from webots_ros/field_get_int32.srv[0m
+[ 14%] [34m[1mGenerating Lisp code from webots_ros/field_get_count.srv[0m
+[ 14%] [34m[1mGenerating Javascript code from webots_ros/field_get_node.srv[0m
+[ 14%] [34m[1mGenerating Lisp code from webots_ros/field_get_float.srv[0m
+[ 14%] [34m[1mGenerating C++ code from webots_ros/display_draw_oval.srv[0m
+[ 14%] [34m[1mGenerating Javascript code from webots_ros/field_get_rotation.srv[0m
+[ 15%] [34m[1mGenerating Lisp code from webots_ros/field_get_int32.srv[0m
+[ 15%] [34m[1mGenerating Python code from SRV webots_ros/camera_get_zoom_info[0m
+[ 15%] [34m[1mGenerating Javascript code from webots_ros/field_get_string.srv[0m
+[ 15%] [34m[1mGenerating Lisp code from webots_ros/field_get_node.srv[0m
+[ 16%] [34m[1mGenerating Javascript code from webots_ros/field_get_type.srv[0m
+[ 16%] [34m[1mGenerating Lisp code from webots_ros/field_get_rotation.srv[0m
+[ 16%] [34m[1mGenerating Javascript code from webots_ros/field_get_name.srv[0m
+[ 16%] [34m[1mGenerating Lisp code from webots_ros/field_get_string.srv[0m
+[ 16%] [34m[1mGenerating C++ code from webots_ros/display_draw_pixel.srv[0m
+[ 16%] [34m[1mGenerating Javascript code from webots_ros/field_get_vec2f.srv[0m
+[ 16%] [34m[1mGenerating Lisp code from webots_ros/field_get_type.srv[0m
+[ 16%] [34m[1mGenerating Python code from SRV webots_ros/display_draw_line[0m
+[ 16%] [34m[1mGenerating Javascript code from webots_ros/field_get_vec3f.srv[0m
+[ 16%] [34m[1mGenerating Lisp code from webots_ros/field_get_name.srv[0m
+[ 16%] [34m[1mGenerating Javascript code from webots_ros/field_import_node_from_string.srv[0m
+[ 17%] [34m[1mGenerating Lisp code from webots_ros/field_get_vec2f.srv[0m
+[ 17%] [34m[1mGenerating C++ code from webots_ros/display_draw_polygon.srv[0m
+[ 17%] [34m[1mGenerating Javascript code from webots_ros/field_remove_node.srv[0m
+[ 17%] [34m[1mGenerating Lisp code from webots_ros/field_get_vec3f.srv[0m
+[ 17%] [34m[1mGenerating Python code from SRV webots_ros/display_draw_oval[0m
+[ 17%] [34m[1mGenerating Javascript code from webots_ros/field_remove.srv[0m
+[ 17%] [34m[1mGenerating Lisp code from webots_ros/field_import_node_from_string.srv[0m
+[ 18%] [34m[1mGenerating Javascript code from webots_ros/field_set_bool.srv[0m
+[ 18%] [34m[1mGenerating Lisp code from webots_ros/field_remove_node.srv[0m
+[ 18%] [34m[1mGenerating Javascript code from webots_ros/field_set_color.srv[0m
+[ 18%] [34m[1mGenerating C++ code from webots_ros/display_draw_rectangle.srv[0m
+[ 18%] [34m[1mGenerating Lisp code from webots_ros/field_remove.srv[0m
+[ 18%] [34m[1mGenerating Python code from SRV webots_ros/display_draw_pixel[0m
+[ 18%] [34m[1mGenerating Javascript code from webots_ros/field_set_float.srv[0m
+[ 18%] [34m[1mGenerating Lisp code from webots_ros/field_set_bool.srv[0m
+[ 18%] [34m[1mGenerating Javascript code from webots_ros/field_set_int32.srv[0m
+[ 19%] [34m[1mGenerating Lisp code from webots_ros/field_set_color.srv[0m
+[ 19%] [34m[1mGenerating Javascript code from webots_ros/field_set_rotation.srv[0m
+[ 19%] [34m[1mGenerating Lisp code from webots_ros/field_set_float.srv[0m
+[ 20%] [34m[1mGenerating C++ code from webots_ros/display_draw_text.srv[0m
+[ 20%] [34m[1mGenerating Javascript code from webots_ros/field_set_string.srv[0m
+[ 20%] [34m[1mGenerating Python code from SRV webots_ros/display_draw_polygon[0m
+[ 20%] [34m[1mGenerating Lisp code from webots_ros/field_set_int32.srv[0m
+[ 21%] [34m[1mGenerating Javascript code from webots_ros/field_set_vec2f.srv[0m
+[ 21%] [34m[1mGenerating Lisp code from webots_ros/field_set_rotation.srv[0m
+[ 21%] [34m[1mGenerating Javascript code from webots_ros/field_set_vec3f.srv[0m
+[ 21%] [34m[1mGenerating Lisp code from webots_ros/field_set_string.srv[0m
+[ 21%] [34m[1mGenerating Javascript code from webots_ros/get_bool.srv[0m
+[ 22%] [34m[1mGenerating Python code from SRV webots_ros/display_draw_rectangle[0m
+[ 22%] [34m[1mGenerating C++ code from webots_ros/display_get_info.srv[0m
+[ 22%] [34m[1mGenerating Lisp code from webots_ros/field_set_vec2f.srv[0m
+[ 22%] [34m[1mGenerating Javascript code from webots_ros/get_float_array.srv[0m
+[ 23%] [34m[1mGenerating Lisp code from webots_ros/field_set_vec3f.srv[0m
+[ 23%] [34m[1mGenerating Javascript code from webots_ros/get_float.srv[0m
+[ 23%] [34m[1mGenerating Lisp code from webots_ros/get_bool.srv[0m
+[ 23%] [34m[1mGenerating Javascript code from webots_ros/get_int.srv[0m
+[ 23%] [34m[1mGenerating Lisp code from webots_ros/get_float_array.srv[0m
+[ 23%] [34m[1mGenerating Python code from SRV webots_ros/display_draw_text[0m
+[ 24%] [34m[1mGenerating Javascript code from webots_ros/get_string.srv[0m
+[ 24%] [34m[1mGenerating C++ code from webots_ros/display_image_copy.srv[0m
+[ 24%] [34m[1mGenerating Lisp code from webots_ros/get_float.srv[0m
+[ 24%] [34m[1mGenerating Javascript code from webots_ros/get_uint64.srv[0m
+[ 24%] [34m[1mGenerating Lisp code from webots_ros/get_int.srv[0m
+[ 24%] [34m[1mGenerating Javascript code from webots_ros/get_urdf.srv[0m
+[ 24%] [34m[1mGenerating Lisp code from webots_ros/get_string.srv[0m
+[ 24%] [34m[1mGenerating Python code from SRV webots_ros/display_get_info[0m
+[ 24%] [34m[1mGenerating Javascript code from webots_ros/gps_decimal_degrees_to_degrees_minutes_seconds.srv[0m
+[ 24%] [34m[1mGenerating Lisp code from webots_ros/get_uint64.srv[0m
+[ 24%] [34m[1mGenerating C++ code from webots_ros/display_image_delete.srv[0m
+[ 24%] [34m[1mGenerating Javascript code from webots_ros/lidar_get_frequency_info.srv[0m
+[ 25%] [34m[1mGenerating Lisp code from webots_ros/get_urdf.srv[0m
+[ 25%] [34m[1mGenerating Javascript code from webots_ros/lidar_get_info.srv[0m
+[ 25%] [34m[1mGenerating Lisp code from webots_ros/gps_decimal_degrees_to_degrees_minutes_seconds.srv[0m
+[ 25%] [34m[1mGenerating Python code from SRV webots_ros/display_image_copy[0m
+[ 26%] [34m[1mGenerating Javascript code from webots_ros/lidar_get_layer_point_cloud.srv[0m
+[ 26%] [34m[1mGenerating Lisp code from webots_ros/lidar_get_frequency_info.srv[0m
+[ 26%] [34m[1mGenerating Javascript code from webots_ros/lidar_get_layer_range_image.srv[0m
+[ 26%] [34m[1mGenerating C++ code from webots_ros/display_image_load.srv[0m
+[ 26%] [34m[1mGenerating Lisp code from webots_ros/lidar_get_info.srv[0m
+[ 26%] [34m[1mGenerating Javascript code from webots_ros/motor_set_control_pid.srv[0m
+[ 26%] [34m[1mGenerating Lisp code from webots_ros/lidar_get_layer_point_cloud.srv[0m
+[ 26%] [34m[1mGenerating Javascript code from webots_ros/mouse_get_state.srv[0m
+[ 26%] [34m[1mGenerating Python code from SRV webots_ros/display_image_delete[0m
+[ 26%] [34m[1mGenerating Lisp code from webots_ros/lidar_get_layer_range_image.srv[0m
+[ 26%] [34m[1mGenerating Javascript code from webots_ros/node_add_force_or_torque.srv[0m
+[ 27%] [34m[1mGenerating Lisp code from webots_ros/motor_set_control_pid.srv[0m
+[ 27%] [34m[1mGenerating C++ code from webots_ros/display_image_new.srv[0m
+[ 27%] [34m[1mGenerating Javascript code from webots_ros/node_add_force_with_offset.srv[0m
+[ 27%] [34m[1mGenerating Lisp code from webots_ros/mouse_get_state.srv[0m
+[ 27%] [34m[1mGenerating Javascript code from webots_ros/node_disable_contact_points_tracking.srv[0m
+[ 27%] [34m[1mGenerating Python code from SRV webots_ros/display_image_load[0m
+[ 27%] [34m[1mGenerating Lisp code from webots_ros/node_add_force_or_torque.srv[0m
+[ 28%] [34m[1mGenerating Javascript code from webots_ros/node_disable_pose_tracking.srv[0m
+[ 28%] [34m[1mGenerating Lisp code from webots_ros/node_add_force_with_offset.srv[0m
+[ 28%] [34m[1mGenerating Javascript code from webots_ros/node_enable_contact_points_tracking.srv[0m
+[ 28%] [34m[1mGenerating Lisp code from webots_ros/node_disable_contact_points_tracking.srv[0m
+[ 29%] [34m[1mGenerating C++ code from webots_ros/display_image_paste.srv[0m
+[ 29%] [34m[1mGenerating Javascript code from webots_ros/node_enable_pose_tracking.srv[0m
+[ 29%] [34m[1mGenerating Lisp code from webots_ros/node_disable_pose_tracking.srv[0m
+[ 30%] [34m[1mGenerating Python code from SRV webots_ros/display_image_new[0m
+[ 30%] [34m[1mGenerating Javascript code from webots_ros/node_get_center_of_mass.srv[0m
+[ 31%] [34m[1mGenerating Lisp code from webots_ros/node_enable_contact_points_tracking.srv[0m
+[ 31%] [34m[1mGenerating Javascript code from webots_ros/node_get_contact_points.srv[0m
+[ 31%] [34m[1mGenerating Lisp code from webots_ros/node_enable_pose_tracking.srv[0m
+[ 31%] [34m[1mGenerating Javascript code from webots_ros/node_get_field.srv[0m
+[ 31%] [34m[1mGenerating C++ code from webots_ros/display_image_save.srv[0m
+[ 31%] [34m[1mGenerating Lisp code from webots_ros/node_get_center_of_mass.srv[0m
+[ 31%] [34m[1mGenerating Python code from SRV webots_ros/display_image_paste[0m
+[ 32%] [34m[1mGenerating Javascript code from webots_ros/node_get_field_by_index.srv[0m
+[ 32%] [34m[1mGenerating Lisp code from webots_ros/node_get_contact_points.srv[0m
+[ 32%] [34m[1mGenerating Javascript code from webots_ros/node_get_id.srv[0m
+[ 32%] [34m[1mGenerating Lisp code from webots_ros/node_get_field.srv[0m
+[ 32%] [34m[1mGenerating Javascript code from webots_ros/node_get_number_of_fields.srv[0m
+[ 32%] [34m[1mGenerating Lisp code from webots_ros/node_get_field_by_index.srv[0m
+[ 32%] [34m[1mGenerating C++ code from webots_ros/display_set_font.srv[0m
+[ 32%] [34m[1mGenerating Python code from SRV webots_ros/display_image_save[0m
+[ 32%] [34m[1mGenerating Javascript code from webots_ros/node_get_name.srv[0m
+[ 32%] [34m[1mGenerating Lisp code from webots_ros/node_get_id.srv[0m
+[ 32%] [34m[1mGenerating Javascript code from webots_ros/node_get_orientation.srv[0m
+[ 33%] [34m[1mGenerating Lisp code from webots_ros/node_get_number_of_fields.srv[0m
+[ 33%] [34m[1mGenerating Javascript code from webots_ros/node_get_pose.srv[0m
+[ 33%] [34m[1mGenerating Lisp code from webots_ros/node_get_name.srv[0m
+[ 34%] [34m[1mGenerating Javascript code from webots_ros/node_get_parent_node.srv[0m
+[ 34%] [34m[1mGenerating Python code from SRV webots_ros/display_set_font[0m
+[ 34%] [34m[1mGenerating Lisp code from webots_ros/node_get_orientation.srv[0m
+[ 34%] [34m[1mGenerating C++ code from webots_ros/field_disable_sf_tracking.srv[0m
+[ 34%] [34m[1mGenerating Javascript code from webots_ros/node_get_position.srv[0m
+[ 34%] [34m[1mGenerating Lisp code from webots_ros/node_get_pose.srv[0m
+[ 34%] [34m[1mGenerating Javascript code from webots_ros/node_get_static_balance.srv[0m
+[ 34%] [34m[1mGenerating Lisp code from webots_ros/node_get_parent_node.srv[0m
+[ 34%] [34m[1mGenerating Javascript code from webots_ros/node_get_status.srv[0m
+[ 34%] [34m[1mGenerating Python code from SRV webots_ros/field_disable_sf_tracking[0m
+[ 34%] [34m[1mGenerating Lisp code from webots_ros/node_get_position.srv[0m
+[ 34%] [34m[1mGenerating Javascript code from webots_ros/node_get_string.srv[0m
+[ 34%] [34m[1mGenerating C++ code from webots_ros/field_enable_sf_tracking.srv[0m
+[ 35%] [34m[1mGenerating Lisp code from webots_ros/node_get_static_balance.srv[0m
+[ 35%] [34m[1mGenerating Javascript code from webots_ros/node_set_string.srv[0m
+[ 35%] [34m[1mGenerating Lisp code from webots_ros/node_get_status.srv[0m
+[ 36%] [34m[1mGenerating Javascript code from webots_ros/node_get_type.srv[0m
+[ 36%] [34m[1mGenerating Lisp code from webots_ros/node_get_string.srv[0m
+[ 36%] [34m[1mGenerating Python code from SRV webots_ros/field_enable_sf_tracking[0m
+[ 36%] [34m[1mGenerating Javascript code from webots_ros/node_get_velocity.srv[0m
+[ 36%] [34m[1mGenerating Lisp code from webots_ros/node_set_string.srv[0m
+[ 36%] [34m[1mGenerating C++ code from webots_ros/field_get_bool.srv[0m
+[ 36%] [34m[1mGenerating Javascript code from webots_ros/node_remove.srv[0m
+[ 36%] [34m[1mGenerating Lisp code from webots_ros/node_get_type.srv[0m
+[ 36%] [34m[1mGenerating Javascript code from webots_ros/node_reset_functions.srv[0m
+[ 36%] [34m[1mGenerating Lisp code from webots_ros/node_get_velocity.srv[0m
+[ 36%] [34m[1mGenerating Javascript code from webots_ros/node_move_viewpoint.srv[0m
+[ 37%] [34m[1mGenerating Python code from SRV webots_ros/field_get_bool[0m
+[ 38%] [34m[1mGenerating Lisp code from webots_ros/node_remove.srv[0m
+[ 38%] [34m[1mGenerating Javascript code from webots_ros/node_set_joint_position.srv[0m
+[ 38%] [34m[1mGenerating C++ code from webots_ros/field_get_color.srv[0m
+[ 38%] [34m[1mGenerating Lisp code from webots_ros/node_reset_functions.srv[0m
+[ 38%] [34m[1mGenerating Javascript code from webots_ros/node_set_visibility.srv[0m
+[ 38%] [34m[1mGenerating Lisp code from webots_ros/node_move_viewpoint.srv[0m
+[ 39%] [34m[1mGenerating Javascript code from webots_ros/node_set_velocity.srv[0m
+[ 39%] [34m[1mGenerating Lisp code from webots_ros/node_set_joint_position.srv[0m
+[ 39%] [34m[1mGenerating Python code from SRV webots_ros/field_get_color[0m
+[ 39%] [34m[1mGenerating Javascript code from webots_ros/pen_set_ink_color.srv[0m
+[ 39%] [34m[1mGenerating Lisp code from webots_ros/node_set_visibility.srv[0m
+[ 39%] [34m[1mGenerating Javascript code from webots_ros/range_finder_get_info.srv[0m
+[ 40%] [34m[1mGenerating C++ code from webots_ros/field_get_count.srv[0m
+[ 40%] [34m[1mGenerating Lisp code from webots_ros/node_set_velocity.srv[0m
+[ 40%] [34m[1mGenerating Javascript code from webots_ros/receiver_get_emitter_direction.srv[0m
+[ 41%] [34m[1mGenerating Lisp code from webots_ros/pen_set_ink_color.srv[0m
+[ 41%] [34m[1mGenerating Python code from SRV webots_ros/field_get_count[0m
+[ 41%] [34m[1mGenerating Javascript code from webots_ros/robot_get_device_list.srv[0m
+[ 41%] [34m[1mGenerating Lisp code from webots_ros/range_finder_get_info.srv[0m
+[ 41%] [34m[1mGenerating Javascript code from webots_ros/robot_set_mode.srv[0m
+[ 41%] [34m[1mGenerating Lisp code from webots_ros/receiver_get_emitter_direction.srv[0m
+[ 41%] [34m[1mGenerating C++ code from webots_ros/field_get_float.srv[0m
+[ 42%] [34m[1mGenerating Javascript code from webots_ros/robot_wait_for_user_input_event.srv[0m
+[ 42%] [34m[1mGenerating Lisp code from webots_ros/robot_get_device_list.srv[0m
+[ 42%] [34m[1mGenerating Javascript code from webots_ros/save_image.srv[0m
+[ 42%] [34m[1mGenerating Python code from SRV webots_ros/field_get_float[0m
+[ 42%] [34m[1mGenerating Lisp code from webots_ros/robot_set_mode.srv[0m
+[ 42%] [34m[1mGenerating Javascript code from webots_ros/set_bool.srv[0m
+[ 42%] [34m[1mGenerating Lisp code from webots_ros/robot_wait_for_user_input_event.srv[0m
+[ 42%] [34m[1mGenerating Javascript code from webots_ros/set_float.srv[0m
+[ 42%] [34m[1mGenerating C++ code from webots_ros/field_get_int32.srv[0m
+[ 42%] [34m[1mGenerating Lisp code from webots_ros/save_image.srv[0m
+[ 42%] [34m[1mGenerating Javascript code from webots_ros/set_float_array.srv[0m
+[ 43%] [34m[1mGenerating Lisp code from webots_ros/set_bool.srv[0m
+[ 43%] [34m[1mGenerating Python code from SRV webots_ros/field_get_int32[0m
+[ 43%] [34m[1mGenerating Javascript code from webots_ros/set_int.srv[0m
+[ 43%] [34m[1mGenerating Lisp code from webots_ros/set_float.srv[0m
+[ 44%] [34m[1mGenerating Javascript code from webots_ros/set_string.srv[0m
+[ 44%] [34m[1mGenerating Lisp code from webots_ros/set_float_array.srv[0m
+[ 44%] [34m[1mGenerating Javascript code from webots_ros/skin_get_bone_name.srv[0m
+[ 44%] [34m[1mGenerating C++ code from webots_ros/field_get_node.srv[0m
+[ 44%] [34m[1mGenerating Lisp code from webots_ros/set_int.srv[0m
+[ 44%] [34m[1mGenerating Javascript code from webots_ros/skin_get_bone_orientation.srv[0m
+[ 44%] [34m[1mGenerating Python code from SRV webots_ros/field_get_node[0m
+[ 44%] [34m[1mGenerating Lisp code from webots_ros/set_string.srv[0m
+[ 44%] [34m[1mGenerating Javascript code from webots_ros/skin_get_bone_position.srv[0m
+[ 44%] [34m[1mGenerating Lisp code from webots_ros/skin_get_bone_name.srv[0m
+[ 44%] [34m[1mGenerating Javascript code from webots_ros/skin_set_bone_orientation.srv[0m
+[ 45%] [34m[1mGenerating Lisp code from webots_ros/skin_get_bone_orientation.srv[0m
+[ 45%] [34m[1mGenerating Javascript code from webots_ros/skin_set_bone_position.srv[0m
+[ 45%] [34m[1mGenerating C++ code from webots_ros/field_get_rotation.srv[0m
+[ 45%] [34m[1mGenerating Python code from SRV webots_ros/field_get_rotation[0m
+[ 45%] [34m[1mGenerating Lisp code from webots_ros/skin_get_bone_position.srv[0m
+[ 45%] [34m[1mGenerating Javascript code from webots_ros/speaker_is_sound_playing.srv[0m
+[ 45%] [34m[1mGenerating Lisp code from webots_ros/skin_set_bone_orientation.srv[0m
+[ 46%] [34m[1mGenerating Javascript code from webots_ros/speaker_speak.srv[0m
+[ 46%] [34m[1mGenerating Lisp code from webots_ros/skin_set_bone_position.srv[0m
+[ 46%] [34m[1mGenerating Javascript code from webots_ros/speaker_play_sound.srv[0m
+[ 46%] [34m[1mGenerating Lisp code from webots_ros/speaker_is_sound_playing.srv[0m
+[ 46%] [34m[1mGenerating C++ code from webots_ros/field_get_string.srv[0m
+[ 47%] [34m[1mGenerating Python code from SRV webots_ros/field_get_string[0m
+[ 47%] [34m[1mGenerating Javascript code from webots_ros/supervisor_get_from_def.srv[0m
+[ 47%] [34m[1mGenerating Lisp code from webots_ros/speaker_speak.srv[0m
+[ 47%] [34m[1mGenerating Javascript code from webots_ros/supervisor_get_from_id.srv[0m
+[ 48%] [34m[1mGenerating Lisp code from webots_ros/speaker_play_sound.srv[0m
+[ 48%] [34m[1mGenerating Javascript code from webots_ros/supervisor_get_from_string.srv[0m
+[ 48%] [34m[1mGenerating Lisp code from webots_ros/supervisor_get_from_def.srv[0m
+[ 48%] [34m[1mGenerating Javascript code from webots_ros/supervisor_movie_start_recording.srv[0m
+[ 48%] [34m[1mGenerating Python code from SRV webots_ros/field_get_type[0m
+[ 50%] [34m[1mGenerating C++ code from webots_ros/field_get_type.srv[0m
+[ 50%] [34m[1mGenerating Lisp code from webots_ros/supervisor_get_from_id.srv[0m
+[ 51%] [34m[1mGenerating Javascript code from webots_ros/supervisor_set_label.srv[0m
+[ 51%] [34m[1mGenerating Lisp code from webots_ros/supervisor_get_from_string.srv[0m
+[ 51%] [34m[1mGenerating Javascript code from webots_ros/supervisor_virtual_reality_headset_get_orientation.srv[0m
+[ 51%] [34m[1mGenerating Lisp code from webots_ros/supervisor_movie_start_recording.srv[0m
+[ 51%] [34m[1mGenerating Javascript code from webots_ros/supervisor_virtual_reality_headset_get_position.srv[0m
+[ 51%] [34m[1mGenerating Lisp code from webots_ros/supervisor_set_label.srv[0m
+[ 51%] [34m[1mGenerating Python code from SRV webots_ros/field_get_name[0m
+[ 51%] Built target webots_ros_generate_messages_nodejs
+[ 51%] [34m[1mGenerating C++ code from webots_ros/field_get_name.srv[0m
+[35m[1mScanning dependencies of target webots_ros_generate_messages_eus[0m
+[ 51%] [34m[1mGenerating EusLisp code from webots_ros/BoolStamped.msg[0m
+[ 51%] [34m[1mGenerating Lisp code from webots_ros/supervisor_virtual_reality_headset_get_orientation.srv[0m
+[ 52%] [34m[1mGenerating Lisp code from webots_ros/supervisor_virtual_reality_headset_get_position.srv[0m
+[ 52%] [34m[1mGenerating EusLisp code from webots_ros/Float64Stamped.msg[0m
+[ 52%] Built target webots_ros_generate_messages_lisp
+[ 52%] [34m[1mGenerating EusLisp code from webots_ros/Int32Stamped.msg[0m
+[ 52%] [34m[1mGenerating Python code from SRV webots_ros/field_get_vec2f[0m
+[ 53%] [34m[1mGenerating EusLisp code from webots_ros/Int8Stamped.msg[0m
+[ 53%] [34m[1mGenerating C++ code from webots_ros/field_get_vec2f.srv[0m
+[ 53%] [34m[1mGenerating C++ code from webots_ros/field_get_vec3f.srv[0m
+[ 53%] [34m[1mGenerating EusLisp code from webots_ros/RadarTarget.msg[0m
+[ 53%] [34m[1mGenerating EusLisp code from webots_ros/RecognitionObject.msg[0m
+[ 53%] [34m[1mGenerating Python code from SRV webots_ros/field_get_vec3f[0m
+[ 53%] [34m[1mGenerating EusLisp code from webots_ros/RecognitionObjects.msg[0m
+[ 53%] [34m[1mGenerating C++ code from webots_ros/field_import_node_from_string.srv[0m
+[ 53%] [34m[1mGenerating C++ code from webots_ros/field_remove_node.srv[0m
+[ 53%] [34m[1mGenerating EusLisp code from webots_ros/StringStamped.msg[0m
+[ 53%] [34m[1mGenerating Python code from SRV webots_ros/field_import_node_from_string[0m
+[ 53%] [34m[1mGenerating EusLisp code from webots_ros/ContactPoint.msg[0m
+[ 54%] [34m[1mGenerating EusLisp code from webots_ros/camera_get_focus_info.srv[0m
+[ 55%] [34m[1mGenerating C++ code from webots_ros/field_remove.srv[0m
+[ 55%] [34m[1mGenerating C++ code from webots_ros/field_set_bool.srv[0m
+[ 56%] [34m[1mGenerating Python code from SRV webots_ros/field_remove_node[0m
+[ 56%] [34m[1mGenerating EusLisp code from webots_ros/camera_get_info.srv[0m
+[ 56%] [34m[1mGenerating EusLisp code from webots_ros/camera_get_zoom_info.srv[0m
+[ 56%] [34m[1mGenerating C++ code from webots_ros/field_set_color.srv[0m
+[ 56%] [34m[1mGenerating C++ code from webots_ros/field_set_float.srv[0m
+[ 56%] [34m[1mGenerating Python code from SRV webots_ros/field_remove[0m
+[ 56%] [34m[1mGenerating EusLisp code from webots_ros/display_draw_line.srv[0m
+[ 56%] [34m[1mGenerating EusLisp code from webots_ros/display_draw_oval.srv[0m
+[ 56%] [34m[1mGenerating EusLisp code from webots_ros/display_draw_pixel.srv[0m
+[ 56%] [34m[1mGenerating Python code from SRV webots_ros/field_set_bool[0m
+[ 56%] [34m[1mGenerating Python code from SRV webots_ros/field_set_color[0m
+[ 56%] [34m[1mGenerating C++ code from webots_ros/field_set_int32.srv[0m
+[ 57%] [34m[1mGenerating EusLisp code from webots_ros/display_draw_polygon.srv[0m
+[ 57%] [34m[1mGenerating EusLisp code from webots_ros/display_draw_rectangle.srv[0m
+[ 57%] [34m[1mGenerating EusLisp code from webots_ros/display_draw_text.srv[0m
+[ 57%] [34m[1mGenerating Python code from SRV webots_ros/field_set_float[0m
+[ 57%] [34m[1mGenerating C++ code from webots_ros/field_set_rotation.srv[0m
+[ 57%] [34m[1mGenerating EusLisp code from webots_ros/display_get_info.srv[0m
+[ 57%] [34m[1mGenerating EusLisp code from webots_ros/display_image_copy.srv[0m
+[ 57%] [34m[1mGenerating EusLisp code from webots_ros/display_image_delete.srv[0m
+[ 57%] [34m[1mGenerating EusLisp code from webots_ros/display_image_load.srv[0m
+[ 57%] [34m[1mGenerating Python code from SRV webots_ros/field_set_int32[0m
+[ 57%] [34m[1mGenerating C++ code from webots_ros/field_set_string.srv[0m
+[ 58%] [34m[1mGenerating EusLisp code from webots_ros/display_image_new.srv[0m
+[ 58%] [34m[1mGenerating EusLisp code from webots_ros/display_image_paste.srv[0m
+[ 58%] [34m[1mGenerating EusLisp code from webots_ros/display_image_save.srv[0m
+[ 58%] [34m[1mGenerating EusLisp code from webots_ros/display_set_font.srv[0m
+[ 59%] [34m[1mGenerating Python code from SRV webots_ros/field_set_rotation[0m
+[ 59%] [34m[1mGenerating EusLisp code from webots_ros/field_disable_sf_tracking.srv[0m
+[ 59%] [34m[1mGenerating EusLisp code from webots_ros/field_enable_sf_tracking.srv[0m
+[ 60%] [34m[1mGenerating C++ code from webots_ros/field_set_vec2f.srv[0m
+[ 60%] [34m[1mGenerating C++ code from webots_ros/field_set_vec3f.srv[0m
+[ 61%] [34m[1mGenerating EusLisp code from webots_ros/field_get_bool.srv[0m
+[ 61%] [34m[1mGenerating Python code from SRV webots_ros/field_set_string[0m
+[ 61%] [34m[1mGenerating EusLisp code from webots_ros/field_get_color.srv[0m
+[ 61%] [34m[1mGenerating C++ code from webots_ros/get_bool.srv[0m
+[ 61%] [34m[1mGenerating EusLisp code from webots_ros/field_get_count.srv[0m
+[ 61%] [34m[1mGenerating C++ code from webots_ros/get_float_array.srv[0m
+[ 61%] [34m[1mGenerating Python code from SRV webots_ros/field_set_vec2f[0m
+[ 61%] [34m[1mGenerating EusLisp code from webots_ros/field_get_float.srv[0m
+[ 61%] [34m[1mGenerating C++ code from webots_ros/get_float.srv[0m
+[ 61%] [34m[1mGenerating EusLisp code from webots_ros/field_get_int32.srv[0m
+[ 61%] [34m[1mGenerating Python code from SRV webots_ros/field_set_vec3f[0m
+[ 61%] [34m[1mGenerating C++ code from webots_ros/get_int.srv[0m
+[ 61%] [34m[1mGenerating EusLisp code from webots_ros/field_get_node.srv[0m
+[ 62%] [34m[1mGenerating EusLisp code from webots_ros/field_get_rotation.srv[0m
+[ 63%] [34m[1mGenerating C++ code from webots_ros/get_string.srv[0m
+[ 63%] [34m[1mGenerating Python code from SRV webots_ros/get_bool[0m
+[ 63%] [34m[1mGenerating EusLisp code from webots_ros/field_get_string.srv[0m
+[ 63%] [34m[1mGenerating C++ code from webots_ros/get_uint64.srv[0m
+[ 63%] [34m[1mGenerating EusLisp code from webots_ros/field_get_type.srv[0m
+[ 63%] [34m[1mGenerating Python code from SRV webots_ros/get_float_array[0m
+[ 63%] [34m[1mGenerating C++ code from webots_ros/get_urdf.srv[0m
+[ 63%] [34m[1mGenerating EusLisp code from webots_ros/field_get_name.srv[0m
+[ 63%] [34m[1mGenerating C++ code from webots_ros/gps_decimal_degrees_to_degrees_minutes_seconds.srv[0m
+[ 63%] [34m[1mGenerating EusLisp code from webots_ros/field_get_vec2f.srv[0m
+[ 64%] [34m[1mGenerating Python code from SRV webots_ros/get_float[0m
+[ 64%] [34m[1mGenerating EusLisp code from webots_ros/field_get_vec3f.srv[0m
+[ 64%] [34m[1mGenerating C++ code from webots_ros/lidar_get_frequency_info.srv[0m
+[ 64%] [34m[1mGenerating EusLisp code from webots_ros/field_import_node_from_string.srv[0m
+[ 64%] [34m[1mGenerating C++ code from webots_ros/lidar_get_info.srv[0m
+[ 64%] [34m[1mGenerating Python code from SRV webots_ros/get_int[0m
+[ 65%] [34m[1mGenerating EusLisp code from webots_ros/field_remove_node.srv[0m
+[ 66%] [34m[1mGenerating C++ code from webots_ros/lidar_get_layer_point_cloud.srv[0m
+[ 66%] [34m[1mGenerating EusLisp code from webots_ros/field_remove.srv[0m
+[ 66%] [34m[1mGenerating Python code from SRV webots_ros/get_string[0m
+[ 66%] [34m[1mGenerating C++ code from webots_ros/lidar_get_layer_range_image.srv[0m
+[ 66%] [34m[1mGenerating EusLisp code from webots_ros/field_set_bool.srv[0m
+[ 66%] [34m[1mGenerating EusLisp code from webots_ros/field_set_color.srv[0m
+[ 66%] [34m[1mGenerating C++ code from webots_ros/motor_set_control_pid.srv[0m
+[ 66%] [34m[1mGenerating Python code from SRV webots_ros/get_uint64[0m
+[ 66%] [34m[1mGenerating EusLisp code from webots_ros/field_set_float.srv[0m
+[ 66%] [34m[1mGenerating C++ code from webots_ros/mouse_get_state.srv[0m
+[ 66%] [34m[1mGenerating EusLisp code from webots_ros/field_set_int32.srv[0m
+[ 66%] [34m[1mGenerating Python code from SRV webots_ros/get_urdf[0m
+[ 66%] [34m[1mGenerating C++ code from webots_ros/node_add_force_or_torque.srv[0m
+[ 67%] [34m[1mGenerating EusLisp code from webots_ros/field_set_rotation.srv[0m
+[ 67%] [34m[1mGenerating C++ code from webots_ros/node_add_force_with_offset.srv[0m
+[ 67%] [34m[1mGenerating EusLisp code from webots_ros/field_set_string.srv[0m
+[ 67%] [34m[1mGenerating Python code from SRV webots_ros/gps_decimal_degrees_to_degrees_minutes_seconds[0m
+[ 67%] [34m[1mGenerating EusLisp code from webots_ros/field_set_vec2f.srv[0m
+[ 68%] [34m[1mGenerating C++ code from webots_ros/node_disable_contact_points_tracking.srv[0m
+[ 68%] [34m[1mGenerating EusLisp code from webots_ros/field_set_vec3f.srv[0m
+[ 68%] [34m[1mGenerating EusLisp code from webots_ros/get_bool.srv[0m
+[ 68%] [34m[1mGenerating Python code from SRV webots_ros/lidar_get_frequency_info[0m
+[ 69%] [34m[1mGenerating EusLisp code from webots_ros/get_float_array.srv[0m
+[ 69%] [34m[1mGenerating EusLisp code from webots_ros/get_float.srv[0m
+[ 69%] [34m[1mGenerating C++ code from webots_ros/node_disable_pose_tracking.srv[0m
+[ 69%] [34m[1mGenerating EusLisp code from webots_ros/get_int.srv[0m
+[ 69%] [34m[1mGenerating EusLisp code from webots_ros/get_string.srv[0m
+[ 70%] [34m[1mGenerating Python code from SRV webots_ros/lidar_get_info[0m
+[ 70%] [34m[1mGenerating Python code from SRV webots_ros/lidar_get_layer_point_cloud[0m
+[ 70%] [34m[1mGenerating EusLisp code from webots_ros/get_uint64.srv[0m
+[ 70%] [34m[1mGenerating C++ code from webots_ros/node_enable_contact_points_tracking.srv[0m
+[ 70%] [34m[1mGenerating EusLisp code from webots_ros/get_urdf.srv[0m
+[ 70%] [34m[1mGenerating EusLisp code from webots_ros/gps_decimal_degrees_to_degrees_minutes_seconds.srv[0m
+[ 70%] [34m[1mGenerating Python code from SRV webots_ros/lidar_get_layer_range_image[0m
+[ 70%] [34m[1mGenerating C++ code from webots_ros/node_enable_pose_tracking.srv[0m
+[ 71%] [34m[1mGenerating EusLisp code from webots_ros/lidar_get_frequency_info.srv[0m
+[ 71%] [34m[1mGenerating C++ code from webots_ros/node_get_center_of_mass.srv[0m
+[ 71%] [34m[1mGenerating EusLisp code from webots_ros/lidar_get_info.srv[0m
+[ 71%] [34m[1mGenerating Python code from SRV webots_ros/motor_set_control_pid[0m
+[ 71%] [34m[1mGenerating C++ code from webots_ros/node_get_contact_points.srv[0m
+[ 71%] [34m[1mGenerating EusLisp code from webots_ros/lidar_get_layer_point_cloud.srv[0m
+[ 71%] [34m[1mGenerating C++ code from webots_ros/node_get_field.srv[0m
+[ 71%] [34m[1mGenerating EusLisp code from webots_ros/lidar_get_layer_range_image.srv[0m
+[ 71%] [34m[1mGenerating Python code from SRV webots_ros/mouse_get_state[0m
+[ 71%] [34m[1mGenerating EusLisp code from webots_ros/motor_set_control_pid.srv[0m
+[ 72%] [34m[1mGenerating C++ code from webots_ros/node_get_field_by_index.srv[0m
+[ 72%] [34m[1mGenerating EusLisp code from webots_ros/mouse_get_state.srv[0m
+[ 72%] [34m[1mGenerating C++ code from webots_ros/node_get_id.srv[0m
+[ 72%] [34m[1mGenerating Python code from SRV webots_ros/node_add_force_or_torque[0m
+[ 72%] [34m[1mGenerating C++ code from webots_ros/node_get_number_of_fields.srv[0m
+[ 72%] [34m[1mGenerating C++ code from webots_ros/node_get_name.srv[0m
+[ 73%] [34m[1mGenerating Python code from SRV webots_ros/node_add_force_with_offset[0m
+[ 73%] [34m[1mGenerating EusLisp code from webots_ros/node_add_force_or_torque.srv[0m
+[ 73%] [34m[1mGenerating C++ code from webots_ros/node_get_orientation.srv[0m
+[ 74%] [34m[1mGenerating EusLisp code from webots_ros/node_add_force_with_offset.srv[0m
+[ 74%] [34m[1mGenerating C++ code from webots_ros/node_get_pose.srv[0m
+[ 74%] [34m[1mGenerating Python code from SRV webots_ros/node_disable_contact_points_tracking[0m
+[ 74%] [34m[1mGenerating EusLisp code from webots_ros/node_disable_contact_points_tracking.srv[0m
+[ 75%] [34m[1mGenerating C++ code from webots_ros/node_get_parent_node.srv[0m
+[ 75%] [34m[1mGenerating Python code from SRV webots_ros/node_disable_pose_tracking[0m
+[ 75%] [34m[1mGenerating EusLisp code from webots_ros/node_disable_pose_tracking.srv[0m
+[ 75%] [34m[1mGenerating C++ code from webots_ros/node_get_position.srv[0m
+[ 75%] [34m[1mGenerating C++ code from webots_ros/node_get_static_balance.srv[0m
+[ 75%] [34m[1mGenerating EusLisp code from webots_ros/node_enable_contact_points_tracking.srv[0m
+[ 75%] [34m[1mGenerating Python code from SRV webots_ros/node_enable_contact_points_tracking[0m
+[ 75%] [34m[1mGenerating C++ code from webots_ros/node_get_status.srv[0m
+[ 75%] [34m[1mGenerating EusLisp code from webots_ros/node_enable_pose_tracking.srv[0m
+[ 75%] [34m[1mGenerating C++ code from webots_ros/node_get_string.srv[0m
+[ 75%] [34m[1mGenerating Python code from SRV webots_ros/node_enable_pose_tracking[0m
+[ 75%] [34m[1mGenerating EusLisp code from webots_ros/node_get_center_of_mass.srv[0m
+[ 75%] [34m[1mGenerating Python code from SRV webots_ros/node_get_center_of_mass[0m
+[ 76%] [34m[1mGenerating EusLisp code from webots_ros/node_get_contact_points.srv[0m
+[ 76%] [34m[1mGenerating EusLisp code from webots_ros/node_get_field.srv[0m
+[ 76%] [34m[1mGenerating C++ code from webots_ros/node_set_string.srv[0m
+[ 77%] [34m[1mGenerating C++ code from webots_ros/node_get_type.srv[0m
+[ 77%] [34m[1mGenerating EusLisp code from webots_ros/node_get_field_by_index.srv[0m
+[ 78%] [34m[1mGenerating Python code from SRV webots_ros/node_get_contact_points[0m
+[ 78%] [34m[1mGenerating C++ code from webots_ros/node_get_velocity.srv[0m
+[ 78%] [34m[1mGenerating EusLisp code from webots_ros/node_get_id.srv[0m
+[ 78%] [34m[1mGenerating EusLisp code from webots_ros/node_get_number_of_fields.srv[0m
+[ 78%] [34m[1mGenerating Python code from SRV webots_ros/node_get_field[0m
+[ 78%] [34m[1mGenerating EusLisp code from webots_ros/node_get_name.srv[0m
+[ 78%] [34m[1mGenerating C++ code from webots_ros/node_remove.srv[0m
+[ 79%] [34m[1mGenerating EusLisp code from webots_ros/node_get_orientation.srv[0m
+[ 79%] [34m[1mGenerating EusLisp code from webots_ros/node_get_pose.srv[0m
+[ 79%] [34m[1mGenerating EusLisp code from webots_ros/node_get_parent_node.srv[0m
+[ 79%] [34m[1mGenerating Python code from SRV webots_ros/node_get_field_by_index[0m
+[ 79%] [34m[1mGenerating EusLisp code from webots_ros/node_get_position.srv[0m
+[ 79%] [34m[1mGenerating C++ code from webots_ros/node_reset_functions.srv[0m
+[ 79%] [34m[1mGenerating EusLisp code from webots_ros/node_get_static_balance.srv[0m
+[ 79%] [34m[1mGenerating EusLisp code from webots_ros/node_get_status.srv[0m
+[ 79%] [34m[1mGenerating EusLisp code from webots_ros/node_get_string.srv[0m
+[ 79%] [34m[1mGenerating Python code from SRV webots_ros/node_get_id[0m
+[ 80%] [34m[1mGenerating EusLisp code from webots_ros/node_set_string.srv[0m
+[ 80%] [34m[1mGenerating EusLisp code from webots_ros/node_get_type.srv[0m
+[ 80%] [34m[1mGenerating C++ code from webots_ros/node_move_viewpoint.srv[0m
+[ 80%] [34m[1mGenerating C++ code from webots_ros/node_set_joint_position.srv[0m
+[ 80%] [34m[1mGenerating Python code from SRV webots_ros/node_get_number_of_fields[0m
+[ 80%] [34m[1mGenerating EusLisp code from webots_ros/node_get_velocity.srv[0m
+[ 80%] [34m[1mGenerating C++ code from webots_ros/node_set_visibility.srv[0m
+[ 81%] [34m[1mGenerating C++ code from webots_ros/node_set_velocity.srv[0m
+[ 81%] [34m[1mGenerating EusLisp code from webots_ros/node_remove.srv[0m
+[ 81%] [34m[1mGenerating Python code from SRV webots_ros/node_get_name[0m
+[ 81%] [34m[1mGenerating EusLisp code from webots_ros/node_reset_functions.srv[0m
+[ 81%] [34m[1mGenerating EusLisp code from webots_ros/node_move_viewpoint.srv[0m
+[ 81%] [34m[1mGenerating C++ code from webots_ros/pen_set_ink_color.srv[0m
+[ 82%] [34m[1mGenerating EusLisp code from webots_ros/node_set_joint_position.srv[0m
+[ 82%] [34m[1mGenerating EusLisp code from webots_ros/node_set_visibility.srv[0m
+[ 82%] [34m[1mGenerating Python code from SRV webots_ros/node_get_orientation[0m
+[ 82%] [34m[1mGenerating EusLisp code from webots_ros/node_set_velocity.srv[0m
+[ 82%] [34m[1mGenerating EusLisp code from webots_ros/pen_set_ink_color.srv[0m
+[ 82%] [34m[1mGenerating C++ code from webots_ros/range_finder_get_info.srv[0m
+[ 82%] [34m[1mGenerating EusLisp code from webots_ros/range_finder_get_info.srv[0m
+[ 82%] [34m[1mGenerating EusLisp code from webots_ros/receiver_get_emitter_direction.srv[0m
+[ 83%] [34m[1mGenerating Python code from SRV webots_ros/node_get_pose[0m
+[ 84%] [34m[1mGenerating EusLisp code from webots_ros/robot_get_device_list.srv[0m
+[ 84%] [34m[1mGenerating Python code from SRV webots_ros/node_get_parent_node[0m
+[ 84%] [34m[1mGenerating EusLisp code from webots_ros/robot_set_mode.srv[0m
+[ 84%] [34m[1mGenerating C++ code from webots_ros/receiver_get_emitter_direction.srv[0m
+[ 84%] [34m[1mGenerating EusLisp code from webots_ros/robot_wait_for_user_input_event.srv[0m
+[ 84%] [34m[1mGenerating EusLisp code from webots_ros/save_image.srv[0m
+[ 84%] [34m[1mGenerating Python code from SRV webots_ros/node_get_position[0m
+[ 84%] [34m[1mGenerating EusLisp code from webots_ros/set_bool.srv[0m
+[ 84%] [34m[1mGenerating C++ code from webots_ros/robot_get_device_list.srv[0m
+[ 84%] [34m[1mGenerating EusLisp code from webots_ros/set_float.srv[0m
+[ 84%] [34m[1mGenerating C++ code from webots_ros/robot_set_mode.srv[0m
+[ 85%] [34m[1mGenerating EusLisp code from webots_ros/set_float_array.srv[0m
+[ 85%] [34m[1mGenerating Python code from SRV webots_ros/node_get_static_balance[0m
+[ 85%] [34m[1mGenerating EusLisp code from webots_ros/set_int.srv[0m
+[ 85%] [34m[1mGenerating EusLisp code from webots_ros/set_string.srv[0m
+[ 86%] [34m[1mGenerating C++ code from webots_ros/robot_wait_for_user_input_event.srv[0m
+[ 86%] [34m[1mGenerating EusLisp code from webots_ros/skin_get_bone_name.srv[0m
+[ 86%] [34m[1mGenerating EusLisp code from webots_ros/skin_get_bone_orientation.srv[0m
+[ 86%] [34m[1mGenerating Python code from SRV webots_ros/node_get_status[0m
+[ 86%] [34m[1mGenerating EusLisp code from webots_ros/skin_get_bone_position.srv[0m
+[ 86%] [34m[1mGenerating EusLisp code from webots_ros/skin_set_bone_orientation.srv[0m
+[ 86%] [34m[1mGenerating C++ code from webots_ros/save_image.srv[0m
+[ 86%] [34m[1mGenerating Python code from SRV webots_ros/node_get_string[0m
+[ 87%] [34m[1mGenerating EusLisp code from webots_ros/skin_set_bone_position.srv[0m
+[ 87%] [34m[1mGenerating C++ code from webots_ros/set_bool.srv[0m
+[ 87%] [34m[1mGenerating EusLisp code from webots_ros/speaker_is_sound_playing.srv[0m
+[ 87%] [34m[1mGenerating EusLisp code from webots_ros/speaker_speak.srv[0m
+[ 88%] [34m[1mGenerating Python code from SRV webots_ros/node_set_string[0m
+[ 88%] [34m[1mGenerating EusLisp code from webots_ros/speaker_play_sound.srv[0m
+[ 88%] [34m[1mGenerating C++ code from webots_ros/set_float.srv[0m
+[ 88%] [34m[1mGenerating EusLisp code from webots_ros/supervisor_get_from_def.srv[0m
+[ 88%] [34m[1mGenerating EusLisp code from webots_ros/supervisor_get_from_id.srv[0m
+[ 89%] [34m[1mGenerating EusLisp code from webots_ros/supervisor_get_from_string.srv[0m
+[ 89%] [34m[1mGenerating Python code from SRV webots_ros/node_get_type[0m
+[ 89%] [34m[1mGenerating EusLisp code from webots_ros/supervisor_movie_start_recording.srv[0m
+[ 89%] [34m[1mGenerating EusLisp code from webots_ros/supervisor_set_label.srv[0m
+[ 89%] [34m[1mGenerating C++ code from webots_ros/set_float_array.srv[0m
+[ 89%] [34m[1mGenerating Python code from SRV webots_ros/node_get_velocity[0m
+[ 89%] [34m[1mGenerating EusLisp code from webots_ros/supervisor_virtual_reality_headset_get_orientation.srv[0m
+[ 89%] [34m[1mGenerating EusLisp code from webots_ros/supervisor_virtual_reality_headset_get_position.srv[0m
+[ 89%] [34m[1mGenerating C++ code from webots_ros/set_int.srv[0m
+[ 89%] [34m[1mGenerating Python code from SRV webots_ros/node_remove[0m
+[ 89%] [34m[1mGenerating EusLisp manifest code for webots_ros[0m
+[ 89%] [34m[1mGenerating Python code from SRV webots_ros/node_reset_functions[0m
+[ 89%] [34m[1mGenerating Python code from SRV webots_ros/node_move_viewpoint[0m
+[ 90%] [34m[1mGenerating C++ code from webots_ros/set_string.srv[0m
+[ 90%] [34m[1mGenerating C++ code from webots_ros/skin_get_bone_name.srv[0m
+[ 91%] [34m[1mGenerating Python code from SRV webots_ros/node_set_joint_position[0m
+[ 91%] [34m[1mGenerating C++ code from webots_ros/skin_get_bone_orientation.srv[0m
+[ 91%] [34m[1mGenerating C++ code from webots_ros/skin_get_bone_position.srv[0m
+[ 91%] [34m[1mGenerating C++ code from webots_ros/skin_set_bone_orientation.srv[0m
+[ 91%] [34m[1mGenerating Python code from SRV webots_ros/node_set_visibility[0m
+[ 91%] Built target webots_ros_generate_messages_eus
+[ 91%] [34m[1mGenerating Python code from SRV webots_ros/node_set_velocity[0m
+[ 91%] [34m[1mGenerating C++ code from webots_ros/skin_set_bone_position.srv[0m
+[ 91%] [34m[1mGenerating Python code from SRV webots_ros/pen_set_ink_color[0m
+[ 92%] [34m[1mGenerating C++ code from webots_ros/speaker_is_sound_playing.srv[0m
+[ 92%] [34m[1mGenerating Python code from SRV webots_ros/range_finder_get_info[0m
+[ 92%] [34m[1mGenerating Python code from SRV webots_ros/receiver_get_emitter_direction[0m
+[ 93%] [34m[1mGenerating Python code from SRV webots_ros/robot_get_device_list[0m
+[ 93%] [34m[1mGenerating C++ code from webots_ros/speaker_speak.srv[0m
+[ 93%] [34m[1mGenerating Python code from SRV webots_ros/robot_set_mode[0m
+[ 93%] [34m[1mGenerating Python code from SRV webots_ros/robot_wait_for_user_input_event[0m
+[ 93%] [34m[1mGenerating Python code from SRV webots_ros/save_image[0m
+[ 93%] [34m[1mGenerating C++ code from webots_ros/speaker_play_sound.srv[0m
+[ 93%] [34m[1mGenerating Python code from SRV webots_ros/set_bool[0m
+[ 93%] [34m[1mGenerating Python code from SRV webots_ros/set_float[0m
+[ 93%] [34m[1mGenerating C++ code from webots_ros/supervisor_get_from_def.srv[0m
+[ 93%] [34m[1mGenerating Python code from SRV webots_ros/set_float_array[0m
+[ 94%] [34m[1mGenerating Python code from SRV webots_ros/set_int[0m
+[ 94%] [34m[1mGenerating Python code from SRV webots_ros/set_string[0m
+[ 94%] [34m[1mGenerating C++ code from webots_ros/supervisor_get_from_id.srv[0m
+[ 94%] [34m[1mGenerating Python code from SRV webots_ros/skin_get_bone_name[0m
+[ 94%] [34m[1mGenerating Python code from SRV webots_ros/skin_get_bone_orientation[0m
+[ 94%] [34m[1mGenerating Python code from SRV webots_ros/skin_get_bone_position[0m
+[ 94%] [34m[1mGenerating C++ code from webots_ros/supervisor_get_from_string.srv[0m
+[ 94%] [34m[1mGenerating Python code from SRV webots_ros/skin_set_bone_orientation[0m
+[ 95%] [34m[1mGenerating Python code from SRV webots_ros/skin_set_bone_position[0m
+[ 95%] [34m[1mGenerating Python code from SRV webots_ros/speaker_is_sound_playing[0m
+[ 95%] [34m[1mGenerating C++ code from webots_ros/supervisor_movie_start_recording.srv[0m
+[ 95%] [34m[1mGenerating Python code from SRV webots_ros/speaker_speak[0m
+[ 95%] [34m[1mGenerating Python code from SRV webots_ros/speaker_play_sound[0m
+[ 95%] [34m[1mGenerating Python code from SRV webots_ros/supervisor_get_from_def[0m
+[ 95%] [34m[1mGenerating Python code from SRV webots_ros/supervisor_get_from_id[0m
+[ 96%] [34m[1mGenerating C++ code from webots_ros/supervisor_set_label.srv[0m
+[ 97%] [34m[1mGenerating Python code from SRV webots_ros/supervisor_get_from_string[0m
+[ 97%] [34m[1mGenerating Python code from SRV webots_ros/supervisor_movie_start_recording[0m
+[ 97%] [34m[1mGenerating Python code from SRV webots_ros/supervisor_set_label[0m
+[ 97%] [34m[1mGenerating Python code from SRV webots_ros/supervisor_virtual_reality_headset_get_orientation[0m
+[ 97%] [34m[1mGenerating C++ code from webots_ros/supervisor_virtual_reality_headset_get_orientation.srv[0m
+[ 97%] [34m[1mGenerating C++ code from webots_ros/supervisor_virtual_reality_headset_get_position.srv[0m
+[ 97%] [34m[1mGenerating Python code from SRV webots_ros/supervisor_virtual_reality_headset_get_position[0m
+[ 97%] Built target webots_ros_generate_messages_cpp
+[35m[1mScanning dependencies of target robot_information_parser[0m
+[35m[1mScanning dependencies of target catch_the_bird[0m
+[35m[1mScanning dependencies of target e_puck_line[0m
+[ 98%] [32mBuilding CXX object CMakeFiles/catch_the_bird.dir/src/catch_the_bird.cpp.o[0m
+[ 98%] [32mBuilding CXX object CMakeFiles/robot_information_parser.dir/src/robot_information_parser.cpp.o[0m
+[ 98%] [32mBuilding CXX object CMakeFiles/e_puck_line.dir/src/e_puck_line.cpp.o[0m
+[ 98%] [34m[1mGenerating Python msg __init__.py for webots_ros[0m
+[100%] [34m[1mGenerating Python srv __init__.py for webots_ros[0m
+[100%] Built target webots_ros_generate_messages_py
+[35m[1mScanning dependencies of target keyboard_teleop[0m
+[100%] [32mBuilding CXX object CMakeFiles/keyboard_teleop.dir/src/keyboard_teleop.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/crumb/MEHATRONIKA/project_ws/devel/.private/webots_ros/lib/webots_ros/robot_information_parser[0m
+[100%] Built target robot_information_parser
+[35m[1mScanning dependencies of target complete_test[0m
+[100%] [32mBuilding CXX object CMakeFiles/complete_test.dir/src/complete_test.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/crumb/MEHATRONIKA/project_ws/devel/.private/webots_ros/lib/webots_ros/e_puck_line[0m
+[100%] [32m[1mLinking CXX executable /home/crumb/MEHATRONIKA/project_ws/devel/.private/webots_ros/lib/webots_ros/catch_the_bird[0m
+[100%] Built target e_puck_line
+[35m[1mScanning dependencies of target webots_ros_generate_messages[0m
+[100%] Built target webots_ros_generate_messages
+[35m[1mScanning dependencies of target panoramic_view_recorder[0m
+[100%] [32mBuilding CXX object CMakeFiles/panoramic_view_recorder.dir/src/panoramic_view_recorder.cpp.o[0m
+[100%] Built target catch_the_bird
+[100%] [32m[1mLinking CXX executable /home/crumb/MEHATRONIKA/project_ws/devel/.private/webots_ros/lib/webots_ros/keyboard_teleop[0m
+[100%] Built target keyboard_teleop
+[100%] [32m[1mLinking CXX executable /home/crumb/MEHATRONIKA/project_ws/devel/.private/webots_ros/lib/webots_ros/panoramic_view_recorder[0m
+[100%] Built target panoramic_view_recorder
+[100%] [32m[1mLinking CXX executable /home/crumb/MEHATRONIKA/project_ws/devel/.private/webots_ros/lib/webots_ros/complete_test[0m
+[100%] Built target complete_test
