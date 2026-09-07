@@ -3,6 +3,8 @@ build/
 devel/
 logs/
 .catkin_tools/
+**/.catkin_tools/
+
 
 # Python
 __pycache__/
@@ -11,6 +13,7 @@ __pycache__/
 
 # IDE / OS
 .vscode/
+**/.vscode/
 .idea/
 .DS_Store
 Thumbs.db
