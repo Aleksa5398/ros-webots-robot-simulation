@@ -1,0 +1,16 @@
+# Catkin / ROS generated folders
+build/
+devel/
+logs/
+.catkin_tools/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
