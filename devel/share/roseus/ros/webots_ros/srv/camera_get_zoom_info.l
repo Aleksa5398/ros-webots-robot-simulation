@@ -1,1 +1,0 @@
-/home/crumb/MEHATRONIKA/project_ws/devel/.private/webots_ros/share/roseus/ros/webots_ros/srv/camera_get_zoom_info.l

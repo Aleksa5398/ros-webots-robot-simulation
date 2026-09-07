@@ -1,1 +1,0 @@
-/home/crumb/MEHATRONIKA/project_ws/devel/.private/webots_ros/lib/webots_ros/ros_controller.py

@@ -1,1 +1,0 @@
-/home/crumb/MEHATRONIKA/project_ws/devel/.private/webots_ros/share/common-lisp/ros/webots_ros/srv/get_uint64.lisp

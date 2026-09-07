@@ -1,1 +1,0 @@
-/home/crumb/MEHATRONIKA/project_ws/devel/.private/webots_ros/share/roseus/ros/webots_ros/srv/node_enable_contact_points_tracking.l

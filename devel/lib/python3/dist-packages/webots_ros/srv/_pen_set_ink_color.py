@@ -1,1 +1,0 @@
-/home/crumb/MEHATRONIKA/project_ws/devel/.private/webots_ros/lib/python3/dist-packages/webots_ros/srv/_pen_set_ink_color.py

@@ -1,1 +1,0 @@
-/home/crumb/MEHATRONIKA/project_ws/devel/.private/webots_ros/include/webots_ros/supervisor_virtual_reality_headset_get_orientation.h

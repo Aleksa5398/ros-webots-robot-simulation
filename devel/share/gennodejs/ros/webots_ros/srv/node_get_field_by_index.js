@@ -1,1 +1,0 @@
-/home/crumb/MEHATRONIKA/project_ws/devel/.private/webots_ros/share/gennodejs/ros/webots_ros/srv/node_get_field_by_index.js

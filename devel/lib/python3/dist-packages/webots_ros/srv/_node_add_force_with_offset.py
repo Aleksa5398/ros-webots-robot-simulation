@@ -1,1 +1,0 @@
-/home/crumb/MEHATRONIKA/project_ws/devel/.private/webots_ros/lib/python3/dist-packages/webots_ros/srv/_node_add_force_with_offset.py

@@ -1,1 +1,0 @@
-/home/crumb/MEHATRONIKA/project_ws/devel/.private/webots_ros/share/common-lisp/ros/webots_ros/srv/_package_get_float_array.lisp

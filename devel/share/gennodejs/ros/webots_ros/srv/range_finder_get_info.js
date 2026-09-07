@@ -1,1 +1,0 @@
-/home/crumb/MEHATRONIKA/project_ws/devel/.private/webots_ros/share/gennodejs/ros/webots_ros/srv/range_finder_get_info.js
