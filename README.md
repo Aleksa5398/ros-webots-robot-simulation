@@ -17,9 +17,7 @@ HSV color filtering is used to separate different elements in the environment, i
 - robot position
 - object position
 
-After processing the image, the environment is represented as a matrix.
-
-This matrix is then reduced to a smaller `31 x 46` grid which can be used for further processing related to robot movement and route planning.
+After processing the image, the environment is represented as a matrix. This matrix is then reduced to a smaller `31 x 46` grid which can be used for further processing related to robot movement and route planning.
 
 ## Processing flow
 
@@ -43,3 +41,55 @@ Environment matrix
         |
         v
 31 x 46 grid
+```
+
+## ROS node
+
+The main camera processing node is located in:
+
+```text
+src/camera_filter/src/camera_filter/nodes/node.py
+```
+
+The node receives the camera image from Webots, processes it and generates a simplified representation of the environment.
+
+## Project structure
+
+The project is organized as a ROS catkin workspace.
+
+```text
+src/
+├── camera_filter/
+└── webots_ros/
+```
+
+The `camera_filter` package contains the code used for processing the camera image and generating the environment matrix.
+
+The repository also contains the ROS and Webots files needed for running the simulation.
+
+## Technologies used
+
+- ROS
+- Webots
+- Python
+- OpenCV
+- NumPy
+- cv_bridge
+- Catkin
+- CMake
+
+## What I worked with
+
+Through this project I worked with:
+
+- ROS nodes and topics
+- communication between ROS and Webots
+- ROS image messages
+- camera processing with OpenCV
+- HSV color segmentation
+- converting image data into a grid representation of the environment
+- basic robot simulation and movement
+
+## Note
+
+This repository contains the complete ROS catkin workspace, including files generated during development and simulation.
